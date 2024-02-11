@@ -1,6 +1,8 @@
 ﻿# NZWalks-WebAPI
 I have created a NZWalks API and NZWalks UI. NZWalks API is a backend API built to manage walks in different regions of New Zealand. It provides endpoints for user authentication, region management, walk management, and image upload for walks also, created a UI to consuming the web API using EF Core, SQL Server, C#, HTML5, CSS3 all in dot net 8.
+<br>
 Course Objective
+<br>
 •	Master the comprehensive understanding of REST APIs by developing a Web API using ASP.NET Core within the context of .NET 7.
 •	Demonstrate a profound grasp of the fundamental principles of REST.
 •	Become well-acquainted with Dependency Injection and its manifold advantages.
